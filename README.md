@@ -1,4 +1,7 @@
 # multi-vesc-ros
+
+NOTE: This is work in progress, it is not yet functional
+
 Controlling multiple vescs over CAN from ROS
 
 
